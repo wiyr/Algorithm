@@ -1,1 +1,1 @@
-GoodBye ICPC
+GoodBye ICPC.
