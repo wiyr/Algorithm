@@ -1,0 +1,23 @@
+﻿生成启动时间为 2016/4/1 15:32:38。
+     1>项目“D:\Microsoft Visual Studio\filesort\filesort\filesort.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\filesort.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\filesort.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt filesort.cpp
+         filesort.cpp
+     1>d:\microsoft visual studio\filesort\filesort\filesort.cpp(19): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+     1>d:\microsoft visual studio\filesort\filesort\filesort.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\microsoft visual studio\filesort\filesort\filesort.cpp(78): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\microsoft visual studio\filesort\filesort\filesort.cpp(94): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\microsoft visual studio\filesort\filesort\filesort.cpp(131): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\microsoft visual studio\filesort\filesort\filesort.cpp(135): warning C4554: “>>”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\microsoft visual studio\filesort\filesort\filesort.cpp(211): warning C4554: “>>”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+       Link:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Microsoft Visual Studio\filesort\Debug\filesort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Microsoft Visual Studio\filesort\Debug\filesort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Microsoft Visual Studio\filesort\Debug\filesort.lib" /MACHINE:X86 Debug\filesort.obj
+         Debug\stdafx.obj
+         filesort.vcxproj -> D:\Microsoft Visual Studio\filesort\Debug\filesort.exe
+     1>已完成生成项目“D:\Microsoft Visual Studio\filesort\filesort\filesort.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.17
